@@ -32,11 +32,11 @@ The next character has not played athletic, has no history or reason why he woul
   
 The last character that is up to jump the gap decides he is uninterested in the risk of insecurely jumping over the pit and spots a nice place to hook a grappling hook into the ceiling. He then claims he wants to simply swing over the gap. The Game Master takes this into context of how he/she feels about the situation and asks the player to see how well the grappling hook holds, and how well he can swing. The Game Master states, "You need to roll over a 5 to make sure the grappled rock holds your weight and you successfully make it over" but the player rolls a 3! indicating he was wrong about the sturdiness of the rock he grabbed with the hook.  
   
-Now, suddenly, the party must action to save him via more roleplay checks like can the character catch the ledge once he starts to fall, can someone grab him mid air, etc etc until the situation is resolved or the killable character is dead at the bottom of the pit.`
+Now, suddenly, the party must take action to save him via more roleplay checks like, can the character catch the ledge once he starts to fall, can someone grab him mid air, etc etc until the situation is resolved or the killable character is dead at the bottom of the pit.`
 
 ### Good at.. Bad at.. Traits
 
-This is also where the Good At and Bad At traits come in. If the context of the problem you are doing a Roleplay Check on is a good fit to match the Good At Trait, you get +2 on your Roleplay Check and if it is a good match for the Bad At Trait you get a -2 to your Roleplay Check. In the scenario above, had the first character specifically said he was "Good at jumping due to his long powerful legs", he would have gotten a +2 or maybe the character that fell had been "Good at Geology", that would have improved his assessment of the rocks he/she hooked and would have saved him with a +2.
+This is also where the Good At and Bad At traits come in. If Roleplay Check is a match to the Good At Trait, you get +2 on your Roleplay Check and if it is a match for the Bad At Trait you get a -2 to your Roleplay Check. In the scenario above, had the first character specifically said he was "Good at jumping due to his long powerful legs", he would have gotten a +2 or maybe the character that fell had been "Good at Geology", that would have improved his assessment of the rocks he/she hooked and could have saved himself a better grapple point.
 
 {% hint style="warning" %}
 It is important to be truthful with your Bad At Trait, if you forget or ignore it and the Game Master notices you will automatically fail the roll.
@@ -52,7 +52,7 @@ This is a social cooperative game and you will find that being concise with your
 
 ## Shenanigans
 
-This is a rule put onto the game specifically for roleplay. Shenanigans is a rule put into place by which players can diplomatically and quickly resolve disagreements. The process is simple.
+Shenanigans is a rule put into place by which players can diplomatically and quickly resolve roleplaying disagreements. The process is simple.
 
 1. A player calls Shenanigans during the roleplay story mode part of the game
 2. Play pauses and the caller of Shenanigans explains what he disagrees with in a sentence or two
@@ -64,11 +64,11 @@ This rule is universal and can be used any time something "Doesnt seem to make s
 
 #### Example
 
-_As a Game Master of a High Fantasy game I say "Then an atomic bomb goes off in the middle of Isaldor."_ _A player will very likely feel like that is lore inappropriate and just doesnt make sense, so he/she calls Shenanigans. The person says "There are not atomic weapons in our world, that doesnt make sense" and the Game Master say "I like atomic weapons though... " and the last player says, "Yah I dont think that makes sense, maybe it could be some magical explosion or something?" The players then take a vote and out vote the Game Master 2-1, the Game Master then must retract the Atomic Bomb Explosion from the story._
+_As a Game Master of a High Fantasy game I say "Then an atomic bomb goes off in the middle of Isaldor."_ _A player will very likely feel like that is lore inappropriate and just doesnt make sense, so he/she calls Shenanigans. The person says "There are not atomic weapons in our world, that doesnt make sense" and the Game Master says "I like atomic weapons though... " and the last player says, "Yah I dont think that makes sense, maybe it could be some magical explosion or something?" The players then take a vote and out vote the Game Master 2-1, the Game Master then must retract the Atomic Bomb Explosion from the story._
 
 I use the Game Master example for a reason, the Shenanigans rule is effectively a cooperative rule to keep the game in a place that makes sense to the majority of people in the game. It is a method to help explain misqueues and things that may very well be an innocent misunderstanding.
 
-Shenanigans can be used on any roleplay element of the game done by any person in the game, player and game master alike.
+Shenanigans can be used on any roleplay element of the game done by any person in the game, player or  game master alike.
 
 
 

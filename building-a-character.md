@@ -40,17 +40,23 @@ You will be given 1000 gold to build your character. Each +1 item is 250g and a 
 
 ### Total Points
 
-Total points is the amount of proficiency points your character has access to, this included base points rewarded to movement or any armor bonuses. You have two stats, the points assigned and an actual points per proficiency.
+Total points is the amount of proficiency points your character has access to. You have two stats, the Distributed Points and an Actual Points per proficiency.
 
-* Points Assigned are the points we put experience into
-* Actual Points is the number we use in combat after base number and armor bonus and quality have been applied 
-* Total points is the sum of all of your Proficiency Actual Points
+* Distributed Points are the points we put experience into \(1 Distributed Point / 10 Exp\)
+* Actual Points is the number we use in combat after base number and armor bonus and weapon quality have been applied 
+* Total points is the sum of all of your Distributed Points
 
 #### Example
 
-_A character with 3 defense points and 4 physical conditioning has light armor of some kind. This gives him/her +1 from the class of armor, and +1 from the quality of the armor on. This is a total of +2 to armor + 10 base + defense points = 15 defense. He/She also has 2 points in movement, giving her 5 movement total and lastly 5 points one handed weapon using a +1 quality weapon.  
-  
-This character has 14 distributed points, with Movement actual is 5, One Handed actual is 6, and defense actual is 15 and conditioning is 4. The total points for this character is 30 points._
+_A character with 3 defense points and 4 physical conditioning has light armor of some kind. This gives him/her +1 from the class of armor, and +1 from the quality of the armor on. This is a total of +2 to armor + 10 base + defense points = 15 defense. He/She also has 2 points in movement, giving her 7 movement total and lastly 5 points one handed weapon using a +1 quality weapon._
+
+| _Proficiency_ | Distributed Points | Actual Points |
+| :--- | :--- | :--- |
+| Defense | 3 | 15 |
+| Movement | 2 | 7 |
+| One Handed | 5 | 6 |
+| Physical Conditioning | 4 | 4 |
+| **TOTAL POINTS** | 14 | N/A |
 
 This Total Points stat is used in balancing combat and assigning balanced loot rewards and combat experience rewards. It is a one time calculation that only changes when equipment or proficiencies change around. Simply recalculate the number each time you make changes to your character.
 

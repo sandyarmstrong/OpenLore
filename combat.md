@@ -10,7 +10,7 @@ You thought you could just be a player with no responsibility didnt you? OpenLor
 
 1. A Controller will control the bad guys and what they do
 2. A Record Keeper will keep track of what effects are active on whom
-3. All other players will share the role of Narrarator, who's role will be to create urgency and combat visualizations
+3. All other players will share the role of Narrator, who's role will be to create urgency and combat visualizations
 
 ### The Controller
 
@@ -22,7 +22,7 @@ This is possibly the second most important role in combat. The record keeper wri
 
 I recommend using colored paper under the figurines or some way to generically track your enemies, if you have a million figurines this may not be needed but most of us have a handful and they dont always look like Stirges when you want them to.
 
-The blank sheet can be found at \([https://www.openloregames.com/RecordKeeper](https://www.openloregames.com/RecordKeeper)\) or attached to the back of this book with the Character Sheet
+The blank sheet can be found at \([https://www.openloregames.com/RecordKeeper](https://www.openloregames.com/RecordKeeper)\) and attached to the back of this book with the Character Sheet
 
 ### The Narrator/s
 
@@ -35,7 +35,7 @@ I recommend the narrator keep track of turn time and the Game Master implement a
 > Simple Repeating Timer is free on iOS and I am sure you can find one easily on Android
 
 {% hint style="info" %}
-Shenanigans or a rule question will pause the timer and the combat, this should be very limited and out of game conversations with a player having trouble may be necessary to facilitate better and more memorable combat
+A rule question will pause the timer and the combat, this should be very limited and out of game conversations with a player having trouble may be necessary to facilitate better and more memorable combat
 {% endhint %}
 
 ## Stages of Combat
@@ -71,7 +71,7 @@ If the tie breaker roll is 18 and 3, the winner of the tie goes after the 14 and
 So its your turn? I bet you want to do something, here is how it shakes out.
 
 1. Move up to your move speed
-   * You can do this after your action as well. 
+   * You can do this after your action. 
    * You can also use your action for a second move phase. 
    * Most of the time it is Move then Action
 2. Action
@@ -172,7 +172,11 @@ Concentration is decided by the Game Master or requested by the Player. If a con
 
 #### Ally Concentration Example
 
-_A mage type character wants to boost his ally next to him with Defense + for as many rounds as he can concentrate. Since this is an ally, there is no rolloff and the effect just happens. The result of the effect is Defense ++ or more specifically Opponents attacking the Double Boost Defense will get a - 4 on their attack proficiency. This will take place until the Mage decides to stop, the mage cannot move during that time and cannot take any other action. The mage must also pass a Roleplay Check since this is an effect._
+_A mage type character wants to boost his ally next to him with Defense + for as many rounds as he can concentrate. Since this is an ally, there is no rolloff and if the roleplay check succeeds, the effect just happens. The result of the effect is Defense ++, or more specifically, Opponents attacking the Double Boost Defense will get a - 4 on their attack proficiency. This will take place until the Mage decides to stop or the mage takes damage. The mage cannot move during that time and cannot take any other action._ 
+
+{% hint style="danger" %}
+Add a Defense - to the concentrating person per additional target greater the 1. Meaning if this defense boost example was on 3 targets, the mage would get a Defense Double Nerf on top of not being able to move.
+{% endhint %}
 
 #### Opponent Concentration Example
 
@@ -197,6 +201,12 @@ The No Movement, No Action example here would be a Quadrupal Nerfed roll on a si
 {% endhint %}
 
 It is not possible to do damage and an effect outside or Signature Moves.
+
+## Signature Moves
+
+These are predetermined and approved moves \(limited to 2 per character\) that attempt both an effect and damage at the same time. You choose whatever your heart can dream of doing, if it is Shenanigans approved before combat, you can use it. You simply roll the action like it were damage, and roll the action like it were an effect and your done. To save time you can just roll a d20, a d8, and a d12 then simple resolve the actions independently to see results.  
+  
+These special actions can only be used ONCE per encounter, so you do not ever get to do both of your signature moves in the same combat session. Signature Moves cannot be used with Heroics.
 
 ##  Range Rules
 
@@ -254,7 +264,7 @@ As can see area of effect gets Nerfed pretty quickly, but it can devastating on 
 
 You can move once a turn, or twice a turn if you choose to sacrifice your action. Fleeing is simple double movement each turn until you have reached safety or Game Master discretionary distance away from the opponents. Movement has a low base of three to incentive the movement proficiency. It really does make a big impact in combat.
 
-## Magic!
+## Magic System
 
 Im sure you have asked by now, "But where is the spellbook? How do I know what spells I can use?" OpenLore has an open ended answer. It is whatever spell you want.  
   
