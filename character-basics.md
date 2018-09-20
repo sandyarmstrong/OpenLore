@@ -1,7 +1,7 @@
 ---
 description: >-
   This section is to go over some fundamental proficiencies and stats to gain a
-  better understanding before attempting to build a character
+  better understanding before attempting to build a character.
 ---
 
 # Character Basics
@@ -38,7 +38,6 @@ Here are the offensive proficiencies, these work to help define your character a
 | Type | Range | Augment |
 | :--- | :--- | :--- |
 | Unarmed | 1-1 | Points + Martial Training |
-| Martial | NA | Adds to Unarmed like a weapon quality |
 |  |  |  |
 | One Handed | 1-1 | Stat + Melee Weapon Quality |
 | Duel Wield | 1-1 | Stat + Melee Weapon Quality |
@@ -92,7 +91,7 @@ This is a good place to put skills that need some level of control. If adding to
 | Healing | Base \[5\] + 5 per point spent up to 7 |
 | Martial Training | Base \[0\] + 1 per point spent up to 10 |
 
-Marital Training is a great example of what mechanical proficiencies are about. Martial Training is put into place to grant effectively 'weapon quality' bonuses with unarmed. Without this being an unarmed martial artist would be entirely unfair as they would easily be surpassed by people finding better and better weapons. This mechanical fix is a good example of what to put here and fixes the mechanical deficiency that occurred by not using weapons.
+Marital Training is a great example of what mechanical proficiencies are about. Martial Training is put into place to grant effectively 'weapon quality' bonuses for unarmed. Without this being an unarmed martial artist would be entirely unfair as they would easily be surpassed by people finding better and better weapons. This mechanical fix is a good example of what to put here and fixes the mechanical deficiency that occurred by not using weapons.
 
 ### Conditioning Proficiencies
 
@@ -107,7 +106,7 @@ Taking a Conditioning Proficiency regularly of either flavor is recommended if y
 | Type | Augment |
 | :--- | :--- |
 | Physical Conditioning | Armor Access: Light 3, Medium 5, Heavy 7 |
-| Mental Conditioning | Spell Range Access: Melee 0, Reach 1, Short 3, Medium 5, Long 7 |
+| Mental Conditioning | Spell Range Max: Melee 0, Reach 1, Short 3, Medium 5, Long 7 |
 
 The augmented skills of these conditioning proficiencies are kind of like a bonus and a way to designate key attributes of a character that would require training and practice. The main purpose for conditioning is to be used as a rolloff in the Effect System. More on that later in the Combat section of the book, but for now I will say it is a direct augment to a rolloff of your conditioning vs theirs. 
 
@@ -159,7 +158,7 @@ Let me explain how each one of these can change the game.
 
 ### Heroics
 
-Heroics is the ability to double proficiency of any type for a single turn. The requirement for this is that you have to come up with something AWESOME that people will remember. Something graphic, or cool, or whatever you come up with, but it has to be memorable.
+Heroics is the ability to add a Double Boost to any type of proficiency for a single turn. The requirement for this is that you have to come up with something AWESOME that people will remember. Something graphic, or cool, or whatever you come up with, but it has to be memorable.
 
 > I parkour over the pit on the wall, leap off and try to stab the archer in the eye with his own notched arrow.
 
@@ -169,7 +168,7 @@ That would be eligible for heroics in my opinion.
 You can use heroics only once per game session and they do not carry over to the next game session.
 {% endhint %}
 
-### Good at.. Bad at..
+### Traits
 
 These are player written in fields that have effects on roleplay elements for the character. It will either give the Game Master a way to poke at your character with a Nerf or a Boost to a Roleplay Check \(more about Roleplay Checks later\)
 
@@ -196,7 +195,7 @@ Once background has been committed to a character, it cannot be undone, just lik
 
 ### Personality
 
-Personality is just a simple comma separated list of one/two word traits that can be assumed are possible in roleplay situations even if the player is not currently acting as such in roleplay. These, like background should be exposed over time as the character evolves and the player's opinion of his own character evolves. Personality also acts as a reminder to the player of how he might act in situations.
+Personality is just a simple comma separated list of one/two words that can be assumed are possible in roleplay situations even if the player is not currently acting as such in roleplay. These, like background should be exposed over time as the character evolves and the player's opinion of his own character evolves. Personality also acts as a reminder to the player of how he might act in situations.
 
 Example: `Short Tempered, Kindhearted, Self-Driven` 
 
@@ -206,9 +205,25 @@ Like the background, the personality will have an impact on Roleplay Checks. A G
 Once a personality trait has been committed to a character sheet it cannot be undone, most people's personality is what it is and cannot be changed.
 {% endhint %}
 
-### Killable/NonKillable
-
 ### Signature Moves
 
-These are two moves that you define who you are in combat, this is kind of like an easy button. Signature Moves can be used once per combat and get both damage and an effect. The definition of your signature move must pass Shenanigans before combat and must be assigned to your character sheet. Any changes to the Signature Moves must be roleplayed and pass Shenanigans to be changed. A character may only carry two signature moves, but only one may be used during an Encounter.
+These are two moves that you define who you are in combat, this is kind of like an easy button. Signature Moves can be used once per combat and get both damage and an effect. The definition of your signature move must pass Shenanigans before combat and must be assigned to your character sheet. Any changes to the Signature Moves must be roleplay added and pass Shenanigans to be changed. A character may only carry two signature moves, but only one may be used during an Encounter.
+
+### Killable/NonKillable
+
+A common issue for Game Masters is the moral dilemma to kill or not kill a character. It can hurt feelings, and some just dont care about feelings and will ignore this rule entirely. The way that I handle this is make it a player decision. 
+
+#### Non-Killable
+
+If you are not killable, death is a temporary inconvenience making for disallowed actions during combat, or the party needing to heroically save you from falling to your death. Basically if at any time your player were to die, the consequence is the party and Game Master have to roleplay you back to life again.
+
+#### Killable
+
+A killable character can be killed in both roleplay and in combat. This means actual death and rerolling a new character sheet. It is the Game Masters discretion how many points are given to the new character.
+
+That being said there is a significant bonus to being killable, which is you get 3 points extra to spend as you see fit on your character.
+
+### Experience
+
+Experience can be granted for quests, for combats, for discovery, or accomplishing something. Experience is giving in points, for every 10 points you can buy a proficiency in whatever you choose. Unspent points should be tracked on the character sheet.
 
