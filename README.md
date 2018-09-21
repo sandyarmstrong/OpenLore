@@ -1,7 +1,3 @@
----
-description: A Creative Universal Roleplay Engine
----
-
 # Introduction to OpenLore
 
 ## Key Concepts about OpenLore
@@ -13,6 +9,8 @@ There are a few major concepts in the game that allowed us to make the many choi
 * Third is the reduction of rules and math, making for less debate and rule checking.
 * Lastly, most metagaming possibilities have been removed from the game.
 * As a bonus, the core system is lore and universe agnostic.
+
+
 
 {% hint style="info" %}
 **Metagaming** is the use of rules and stats to maximize the effectiveness of a character that goes against common sense and story continuity. This is unfavorable in roleplaying games because generally these decisions do not translate well to memorable and effective roleplay as a character. 

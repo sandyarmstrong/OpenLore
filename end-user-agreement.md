@@ -1,7 +1,3 @@
----
-description: Terms and Conditions of Reading and Using this Book
----
-
 # End User Agreement License \(EULA\)
 
 ## Downloadable eBook End-user License Agreement

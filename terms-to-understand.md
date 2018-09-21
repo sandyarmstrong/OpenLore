@@ -1,7 +1,3 @@
----
-description: This is just a basic list of terms we will be using in the game.
----
-
 # Terms Used
 
 **Player** - This is the physical person at the game table.  

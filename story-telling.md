@@ -1,9 +1,3 @@
----
-description: >-
-  In this section of the book we will talk about how roleplay works in this
-  game.
----
-
 # Story Mode
 
 ## What a Roleplaying Game is most...

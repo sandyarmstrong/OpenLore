@@ -1,7 +1,3 @@
----
-description: Description of the rules of combat and how to roleplay in combat
----
-
 # Combat Mode
 
 ## Player Roles in Combat
@@ -268,17 +264,17 @@ You can move once a turn, or twice a turn if you choose to sacrifice your action
 
 Im sure you have asked by now, "But where is the spellbook? How do I know what spells I can use?" OpenLore has an open ended answer. It is whatever spell you want.  
   
-"I want to grow vines around your feet so you cannot move"  
+_"I want to grow vines around your feet so you cannot move"  
 "I want to spray steam in your eyes so you cannot defend yourself"  
 "I am going to call down a meteor to strike you down and do damage."  
-"I am going to create a strong gravity field above you to pull you up, then turn it off so you fall and take damage"
+"I am going to create a strong gravity field above you to pull you up, then turn it off so you fall and take damage"_
 
 You should see at this point that all of those things are easily handled by OpenLore
 
-Vines = Effect System  
+_Vines = Effect System  
 Steam = Effect System  
 Meteor = Damage System  
-Gravity Field = Damage System
+Gravity Field = Damage System_
 
 There are some things you cannot mold easily to the system like teleportation and conjuring, but if that is important to you, it would be easy to add a proficiency and some simple guidelines around these.
 
@@ -287,4 +283,8 @@ The vast majority of creativity in magic is just the how, not so much the what. 
 {% hint style="info" %}
 In my game, as will be described more in the Game Master portion of this book, we use a magical forms system where you have to learn about the plant form or the fire form and you stay within the forms you know. This is simply just to make it so there is a sense of growth in magic and a restraint on imagination to some extent.
 {% endhint %}
+
+## Ganging Up on Enemies
+
+If 2 or more allies are attacking a single enemy, then can choose to declare which 2 or more players are attacking which enemy, those allies will get a Boost to their Offensive Proficiencies against that enemy until only any one of the declared allies engages a new foe.
 

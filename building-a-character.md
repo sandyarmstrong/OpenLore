@@ -1,7 +1,3 @@
----
-description: A howto step by step guide to filling out a Character Sheet
----
-
 # Building a Character
 
 ## Character Sheet

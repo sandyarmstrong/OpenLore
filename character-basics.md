@@ -1,9 +1,3 @@
----
-description: >-
-  This section is to go over some fundamental proficiencies and stats to gain a
-  better understanding before attempting to build a character.
----
-
 # Character Basics
 
 ## Character Basics
@@ -226,4 +220,6 @@ That being said there is a significant bonus to being killable, which is you get
 ### Experience
 
 Experience can be granted for quests, for combats, for discovery, or accomplishing something. Experience is giving in points, for every 10 points you can buy a proficiency in whatever you choose. Unspent points should be tracked on the character sheet.
+
+You can seek out training as well and pay for it in quests or gold. Find your dojo!
 
