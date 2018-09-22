@@ -6,11 +6,9 @@ In OpenLore a character is defined not by race, class, or level, but by how they
 
 Note also that a character's style in combat is completely separate from their personality and how they should be role-played. It is not necessary for a brawler to be a bumbling fool simply because he's strong. Characters are not defined by broad attributes, instead their skill in combat is defined by a collection of specific proficiencies and training, and their personality is whatever the players thinks it should be. The player is engaged in a cooperative storytelling experience and should treat their game characters as if they were characters in a book. 
 
-### Character Stat Overview
-
 Fundamentally, there are two types of stats in OpenLore:
 
-* **Proficiencies** - Specific skills developed by the character. Used to calculate modifiers for combat attack rolls and skill roll-offs
+* **Proficiencies** - Specific skills developed by the character. Used to calculate modifiers for combat rolls and skill roll-offs.
 * **Tactical Conditioning** - The physical and mental training undergone by the character. Used to calculate modifiers for tactical roll-offs and to set equipment requirements. Tactical training is divided into the following two categories:
   * **Physical Conditioning**
   * **Mental Conditioning**
@@ -25,9 +23,19 @@ All proficiencies have a maximum of **10** points unless specified
 Using any equipment or magic without proficiency will give you an addition Nerf to your rolls on that proficiency, see Buffs and Nerfs in the combat and effect sections of this manual.
 {% endhint %}
 
-### Weapon Proficiencies
+## Proficiencies
+
+By default OpenLore has the following character proficiencies. 
+
+//todo: Add table of default proficiencies
+
+Note that custom proficiencies can be added to by a player or to meet the needs of a specific campaign setting. For example, a player in a Wild West campaign can add a Poker proficiency. 
+
+### Weapon Class Proficiencies
 
 > The ability to deal damage.
+
+Weapon class proficiencies determine a characters skill with specific types of weapons. Every weapon is assigned to a weapon class, and when a player invests points into a particular weapon class they become skill in all weapons of that class.
 
 Here are the offensive proficiencies, these work to help define your character and somewhat restrict being all knowing of everything. The reason we can have so many choices is because you can only use one offense.   
 
@@ -132,7 +140,7 @@ The Class of Armor and Shield are static and will be discussed when we get to eq
 Using armor or shields without proficiency will Nerf all your offensive proficiencies.
 {% endhint %}
 
-### Mechanical Proficiencies
+#### Mechanical Proficiencies
 
 > The ability to effect the mechanics of combat.
 
@@ -146,7 +154,7 @@ This is a good place to put skills that need some level of control. If adding to
 
 Marital Training is a great example of what mechanical proficiencies are about. Martial Training is put into place to grant effectively 'weapon quality' bonuses for unarmed. Without this being an unarmed martial artist would be entirely unfair as they would easily be surpassed by people finding better and better weapons. This mechanical fix is a good example of what to put here and fixes the mechanical deficiency that occurred by not using weapons.
 
-### Tactical Conditioning
+## Tactical Conditioning
 
 > A trained augmentation of potentially grouped proficiencies and a rolloff in the **Effect System**
 
