@@ -2,7 +2,7 @@
 
 ## Player Roles in Combat
 
-You thought you could just be a player with no responsibility didnt you? OpenLore has a concept that helps the flow of combat that requires the players to do a little more then simply wait for their turn.
+You thought you could just be a player with no responsibility didn't you? OpenLore has a concept that helps the flow of combat that requires the players to do a little more then simply wait for their turn.
 
 1. A Controller will control the bad guys and what they do
 2. A Record Keeper will keep track of what effects are active on whom
@@ -10,11 +10,11 @@ You thought you could just be a player with no responsibility didnt you? OpenLor
 
 ### The Controller
 
-This is typically the Game Master. The responsibility is to choose attacks, effects, movements and strategy that will give the characters a challenge. The Controller will have access to the NPC Difficulty Charts \([https://www.openloregames.com/DifficultyChart](https://www.openloregames.com/DifficultyChart), also later in the Game Master Guide\) and he will be responsible for taking the right statistics off the Difficulty Chart and applying them to in game attacks and effects. The Controller controls the enemies movement and actions.
+The controller is responsible for controlling the enemies in combat. This is typically the Game Master. The controller must choose attacks, effects, movements, and strategy that will give the characters a challenge. The Controller will have access to the NPC Difficulty Charts \([https://www.openloregames.com/DifficultyChart](https://www.openloregames.com/DifficultyChart), also later in the Game Master Guide\) and he will be responsible for taking the right statistics off the Difficulty Chart and applying them to in game attacks and effects. The Controller controls the enemies movement and actions.
 
 ### The Record Keeper
 
-This is possibly the second most important role in combat. The record keeper writes down the combat initiative order, keeps track of whose turn it is, how much damage they have taken, and what effects are currently active on them or not. There is a blank sheet you can use to do this. 
+The record keeper is responsible for tracking initiative, damage, and effects during a combat encounter. This is possibly the second most important role in combat. The record keeper writes down the combat initiative order, keeps track of whose turn it is, how much damage they have taken, and what effects are currently active on them or not. There is a blank sheet you can use to do this. 
 
 I recommend using colored paper under the figurines or some way to generically track your enemies, if you have a million figurines this may not be needed but most of us have a handful and they dont always look like Stirges when you want them to.
 
@@ -22,7 +22,7 @@ The blank sheet can be found at \([https://www.openloregames.com/RecordKeeper](h
 
 ### The Narrator/s
 
-The narrator job is meant to keep combat vivid and fast. The narrator describes the misses, the crushing blows, and the storming monster. The narrator creates intensity and excitement and demands that combat move as quickly as possible. It is the narrator's responsibility to keep time and make things seem urgent. He could say things like "Your running out of time the Bugbear is charging you" and things to that effect that make combat intense instead of methodical.
+The narrator is responsible for narrating the combat as it takes place, this is meant to keep combat vivid and fast. The narrator describes the misses, the crushing blows, and the storming monster. The narrator creates intensity and excitement and demands that combat move as quickly as possible. It is the narrator's responsibility to keep time and make things seem urgent. He could say things like "Your running out of time the Bugbear is charging you" and things to that effect that make combat intense instead of methodical.
 
 The narrator might interject something interesting into the enemies in response to the way the Game Master has played them like "The orc that isnt attacking us is simply picking his nose and looking for something" these could turn into really great roleplay scenarios that the Game Master didnt think of and makes it so there is interesting cooperative play.
 
@@ -53,7 +53,7 @@ A rule question will pause the timer and the combat, this should be very limited
 
 ### Initiative
 
-This one is pretty simple, everyone rolls a d20 including all characters/enemies and the order is written down on the Record Sheet by The Recorder. If there is a tie in numbers an additional roll takes place to assign order at the previous location in initiative. There is no modifiers to this stage as we wanted to keep this part of combat as easy as possible without math.
+At the beginning of every combat encounter all combatants roll a d20, including enemies. The initiative order is written down on the Record Sheet by The Recorder. If there is a tie in numbers an additional roll takes place to assign order at the previous location in initiative. There is no modifiers to this stage as we wanted to keep this part of combat as easy as possible without math
 
 #### Example
 
