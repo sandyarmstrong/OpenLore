@@ -6,17 +6,12 @@ In OpenLore a character is defined not by race, class, or level, but by how they
 
 Note also that a character's style in combat is completely separate from their personality and how they should be role-played. It is not necessary for a brawler to be a bumbling fool simply because he's strong. Characters are not defined by broad attributes, instead their skill in combat is defined by a collection of specific proficiencies and training, and their personality is whatever the players thinks it should be. The player is engaged in a cooperative storytelling experience and should treat their game characters as if they were characters in a book. 
 
-Fundamentally, there are only 5 stats, these get more specific as you will see shortly but essentially these are this only 5 stats that matter in the game.
+Fundamentally, there are two types of stats in OpenLore:
 
-* Offensive Proficiencies
-* Defensive Proficiencies
+* Proficiencies
 * Tactical Conditioning 
-* Mechanical Proficiencies
-* Rolloff Proficiencies
 
-Each of these proficiencies is further divided into subgroups. might have one-handed proficiency or two-handed proficiency. Defense might have armor proficiency, or shield proficiency. The proficiencies below should work for most universe's without modification, so it is recommended to try this first and adjust for your lore and proficiencies accordingly.
-
-The incredible thing about this system is it can be molded easily to the world you play in. See the game mastering portion of the handbook for more details on creating these for your universe.
+The incredible thing about this system is it can be molded easily to the world you play in. Proficiencies can be added to fit any situation, allowing the same basic mechanics to be used any campaign setting imaginable. See the game mastering portion of the handbook for more details on creating these for your universe.
 
 {% hint style="info" %}
 All proficiencies have a maximum of **10** points unless specified
