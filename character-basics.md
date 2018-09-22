@@ -2,14 +2,18 @@
 
 ## Character Basics
 
-In OpenLore a character is defined not by race, class, or level, but by how they choose to invest their experience. Just as in life, every character is unique and they excel at what they invest in. Experience points are placed into specific Combat Proficiencies, representing skill developed as the result of hard training and practice in a specific combat skill. Experience points can also be invested into Tactical Conditioning,  representing grueling physical or mental training that the character has undergone to prepare for the challenges they will face.
+In OpenLore a character is defined not by race, class, or level, but by how they choose to invest their experience. Just as in life, every character is unique and they excel at what they invest in. Experience points are placed into specific Proficiencies, representing skill developed as the result of hard training and practice in a specific skill. Experience points can also be invested into Tactical Conditioning,  representing grueling physical or mental training that the character has undergone to prepare for the challenges they will face.
 
 Note also that a character's style in combat is completely separate from their personality and how they should be role-played. It is not necessary for a brawler to be a bumbling fool simply because he's strong. Characters are not defined by broad attributes, instead their skill in combat is defined by a collection of specific proficiencies and training, and their personality is whatever the players thinks it should be. The player is engaged in a cooperative storytelling experience and should treat their game characters as if they were characters in a book. 
 
+### Character Stat Overview
+
 Fundamentally, there are two types of stats in OpenLore:
 
-* Proficiencies
-* Tactical Conditioning 
+* **Proficiencies** - Specific skills developed by the character. Used to calculate modifiers for combat attack rolls and skill roll-offs
+* **Tactical Conditioning** - The physical and mental training undergone by the character. Used to calculate modifiers for tactical roll-offs and to set equipment requirements. Tactical training is divided into the following two categories:
+  * **Physical Conditioning**
+  * **Mental Conditioning**
 
 The incredible thing about this system is it can be molded easily to the world you play in. Proficiencies can be added to fit any situation, allowing the same basic mechanics to be used any campaign setting imaginable. See the game mastering portion of the handbook for more details on creating these for your universe.
 
