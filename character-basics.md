@@ -2,15 +2,19 @@
 
 ## Character Basics
 
+In OpenLore a character is defined not by race, class, or level, but by how they choose to invest their experience. Just as in life, every character is unique and they excel at what they invest in. Experience points are placed into specific Combat Proficiencies, representing skill developed as the result of hard training and practice in a specific combat skill. Experience points can also be invested into Tactical Conditioning,  representing grueling physical or mental training that the character has undergone to prepare for the challenges they will face.
+
+Note also that a character's style in combat is completely separate from their personality and how they should be role-played. It is not necessary for a brawler to be a bumbling fool simply because he's strong. Characters are not defined by broad attributes, instead their skill in combat is defined by a collection of specific proficiencies and training, and their personality is whatever the players thinks it should be. The player is engaged in a cooperative storytelling experience and should treat their game characters as if they were characters in a book. 
+
 Fundamentally, there are only 5 stats, these get more specific as you will see shortly but essentially these are this only 5 stats that matter in the game.
 
 * Offensive Proficiencies
 * Defensive Proficiencies
-* Conditioning Proficiencies
+* Tactical Conditioning 
 * Mechanical Proficiencies
 * Rolloff Proficiencies
 
-Each of these proficiencies will have subtype might have one-handed proficiency or two-handed proficiency. Defense might have armor proficiency, or shield proficiency. The proficiencies below should work for most universe's without modification, so it is recommended to try this first and adjust for your lore and proficiencies accordingly.
+Each of these proficiencies is further divided into subgroups. might have one-handed proficiency or two-handed proficiency. Defense might have armor proficiency, or shield proficiency. The proficiencies below should work for most universe's without modification, so it is recommended to try this first and adjust for your lore and proficiencies accordingly.
 
 The incredible thing about this system is it can be molded easily to the world you play in. See the game mastering portion of the handbook for more details on creating these for your universe.
 
@@ -29,20 +33,17 @@ Using any equipment or magic without proficiency will give you an addition Nerf 
 Here are the offensive proficiencies, these work to help define your character and somewhat restrict being all knowing of everything. The reason we can have so many choices is because you can only use one offense.   
 
 
-| Type | Range | Augment |
-| :--- | :--- | :--- |
-| Unarmed | 1-1 | Points + Martial Training |
-|  |  |  |
-| One Handed | 1-1 | Stat + Melee Weapon Quality |
-| Duel Wield | 1-1 | Stat + Melee Weapon Quality |
-| Two Handed | 1-1 | Stat + Melee Weapon Quality |
-| Reach | 2-2 | Stat + Melee Weapon Quality |
-|  |  |  |
-| Short Range | 3-5 | Stat + Ranged Weapon Quality |
-| Medium Range | 5-8 | Stat + Ranged Weapon Quality |
-| Long Range | 9-12 | Stat + Ranged Weapon Quality |
-|  |  |  |
-| Magic | 1-Spell Range | Stat + Focus Quality \[ _Grants 1 magic form per two points_ \] |
+| Type | Min Range | Max Range | Combat Modifier Calculation |
+| :--- | :--- | :--- | :--- |
+| Unarmed | 1 | 1 | Proficiency + Martial Training |
+| One Handed Weapons | 1 | 1 | Proficiency + Weapon Quality |
+| Duel Wield | 1 | 1 | Proficiency + Weapon Quality |
+| Two Handed Weapons | 1 | 1 | Proficiency + Weapon Quality |
+| Reach | 1 | 2 | Proficiency + Weapon Quality |
+| Short Range | 3 | 5 | Proficiency + Weapon Quality |
+| Medium Range | 5 | 8 | Proficiency + Weapon Quality |
+| Long Range | 9 | 12 | Proficiency + Weapon Quality |
+| Magic | 1 | 1-Spell Range | Proficiency  + Focus Quality  |
 
 {% hint style="warning" %}
 Range has a minimum and a maximum number of squares. A character cannot use a proficiency over the maximum at all, but can use it under the minimum with a Nerfed roll.
@@ -64,7 +65,7 @@ Defense is the skill by which you can defend yourself from damage, this combines
 
 | Type | Augment |
 | :--- | :--- |
-| Defense | Stat + Defense Base \[8\] + Armor Quality + Armor Class + Shield Class |
+| Self-Defense | Proficiency + 8 + Armor Quality + Armor Class + Shield Class |
 | Shield | Shield Access: Small 2, Large 4 |
 
 The Class of Armor and Shield are static and will be discussed when we get to equipment. Armor is a byproduct of Physical Conditioning as it takes an immense amount of conditioning to be able to wear thick heavy armor. Shields have a Class bonus, but no Quality bonuses, see Equipment section for more details on this and why we had to do it this way.
@@ -81,13 +82,13 @@ This is a good place to put skills that need some level of control. If adding to
 
 | Type | Augment |
 | :--- | :--- |
-| Movement | Base \[3\] +  2 squares per point up to 5 |
-| Healing | Base \[5\] + 5 per point spent up to 7 |
-| Martial Training | Base \[0\] + 1 per point spent up to 10 |
+| Movement | 3 +  2 squares per point up to 5 |
+| Healing | 5 + 5 per point spent up to 7 |
+| Martial Training | 1 per point spent up to 10 |
 
 Marital Training is a great example of what mechanical proficiencies are about. Martial Training is put into place to grant effectively 'weapon quality' bonuses for unarmed. Without this being an unarmed martial artist would be entirely unfair as they would easily be surpassed by people finding better and better weapons. This mechanical fix is a good example of what to put here and fixes the mechanical deficiency that occurred by not using weapons.
 
-### Conditioning Proficiencies
+### Tactical Conditioning
 
 > A trained augmentation of potentially grouped proficiencies and a rolloff in the **Effect System**
 
