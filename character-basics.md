@@ -21,7 +21,7 @@ All proficiencies have a maximum of **10** points unless specified
 Using any equipment or magic without proficiency will give you an addition Nerf to your rolls on that proficiency, see Buffs and Nerfs in the combat and effect sections of this manual.
 {% endhint %}
 
-### Offensive Proficiencies
+### Weapon Proficiencies
 
 > The ability to deal damage.
 
