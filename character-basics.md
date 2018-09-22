@@ -33,19 +33,78 @@ Using any equipment or magic without proficiency will give you an addition Nerf 
 Here are the offensive proficiencies, these work to help define your character and somewhat restrict being all knowing of everything. The reason we can have so many choices is because you can only use one offense.   
 
 
-| Type | Min Range | Max Range | Combat Modifier Calculation |
-| :--- | :--- | :--- | :--- |
-| Unarmed | 1 | 1 | Proficiency + Martial Training |
-| One Handed Weapons | 1 | 1 | Proficiency + Weapon Quality |
-| Duel Wield | 1 | 1 | Proficiency + Weapon Quality |
-| Two Handed Weapons | 1 | 1 | Proficiency + Weapon Quality |
-| Reach | 1 | 2 | Proficiency + Weapon Quality |
-| Short Range | 3 | 5 | Proficiency + Weapon Quality |
-| Medium Range | 5 | 8 | Proficiency + Weapon Quality |
-| Long Range | 9 | 12 | Proficiency + Weapon Quality |
-| Magic | 1 | 1-Spell Range | Proficiency  + Focus Quality  |
-
-{% hint style="warning" %}
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Weapon Class</th>
+      <th style="text-align:left">
+        <p>Min</p>
+        <p>Range</p>
+      </th>
+      <th style="text-align:left">
+        <p>Max</p>
+        <p>Range</p>
+      </th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Unarmed</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">Hand to hand combat</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">One Handed</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">One handed melee weapons</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Duel Wield</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">Weapons that function in pairs and require two hands</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Two Handed</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">Two handed melee weapons</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Reach</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">Weapons with an extended reach, but are not projectile</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Short Range</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">5</td>
+      <td style="text-align:left">Short range projectile weapons</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Medium Range</td>
+      <td style="text-align:left">5</td>
+      <td style="text-align:left">8</td>
+      <td style="text-align:left">Medium range projectile weapons</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Long Range</td>
+      <td style="text-align:left">9</td>
+      <td style="text-align:left">12</td>
+      <td style="text-align:left">Long range projectile weapons</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Magic</td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">1-Spell Range</td>
+      <td style="text-align:left">Combat magic</td>
+    </tr>
+  </tbody>
+</table>{% hint style="warning" %}
 Range has a minimum and a maximum number of squares. A character cannot use a proficiency over the maximum at all, but can use it under the minimum with a Nerfed roll.
 
 Spell Range is a byproduct of Mental Conditioning, see more about that below.
