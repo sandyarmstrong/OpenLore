@@ -162,7 +162,7 @@ Ice Magic
 ...
 ```
 
-This list could be endless and only limited by imagination. It is important to understand how you character fights in combat to be able to pick these. These skills will be used to calculate the damage done and how often you hit an enemy \(called Combat Modifier\). It is recommended to keep these very narrow focused and not spread out your points too much.
+This list could be endless and only limited by imagination. It is important to understand how you character fights in combat to be able to pick these. These skills will be used to calculate the damage done and how often you hit an enemy. It is recommended to keep these very narrow focused and not spread out your points too much.
 
 There are several other Combat Skills beyond the written in weapon based skills.
 
@@ -172,8 +172,8 @@ There are several other Combat Skills beyond the written in weapon based skills.
 | Toughness | Used to increase your health points by 2 each skill point |
 | Aim | Aim is used for increasing the maximum range you are capable of using. This range is the max distance possible even if the weapon has a greater range. |
 | Self-Defense | Ability to defend self through technique, whether it be dodging, parrying, or blocking. This is taken by characters that don't want as much armor and gains Defense + 2 per skill point |
-| Tactics | Used for the effect system, more of this provides both Effect defense and Offense |
-| Speed | Used to increase speed in combat |
+| Tactics | Used for the effect system, more of this provides both Effect defense and offense |
+| Speed | Used to increase movement in combat |
 | First Aid | Skill applying first aid to heal wounds, touch only if not magical |
 
 Each of these Combat Skills make a significant tweak in combat. Your points are worth spending in this area as these skills directly interact with combat. The combat reference sheet is designed to make these combat skills easily translatable in combat and we will discuss that later in this section.
@@ -278,19 +278,19 @@ The Total Defense we used is the calculated total, not the Max Total Defense. Th
 
 This is on the Combat Reference Sheet as a reference, it is brought straight over from the Character Sheet. Tactics are used to modify the dice roll used to see if an effect takes place against and enemy or not. More details on this in the Combat section of the book.
 
-#### Tactical Points
+#### Effect Points
 
-These are used to choose the effects you are capable of doing. To calculate these you do `Tactics / 2 round down + 1` The points range from 1-6 total and limit the effects done in combat 
+These are used to choose the effects you are capable of doing. To calculate these you do `Tactics / 2 round down + 1` The points range from 1-6 total and limit the effects done in combat. 
 
-Tactical Points are used on the following table during combat.
+Effect Points are used on the following table during combat.
 
 | Effect Name | Effect Buff / Debuff | Duration Possibilities | Tactical Point Cost |
 | :---: | :---: | :---: | :---: |
-| Attack |  +/- Tactical Points | 2 Rounds or Concentration | 1 |
-| Defense |  +/- Tactical Points | 2 Rounds or Concentration | 1 |
-| Damage |  +/- Tactical Points | 2 Rounds or Concentration | 1 |
-| Speed |  +/- Tactical Points | 2 Rounds or Concentration | 1 |
-| Tactics |  +/- Tactical Points | 2 Rounds or Concentration | 1 |
+| Attack |  +/- Effect Points | 2 Rounds or Concentration | 1 |
+| Defense |  +/- Effect Points | 2 Rounds or Concentration | 1 |
+| Damage |  +/- Effect Points | 2 Rounds or Concentration | 1 |
+| Speed |  +/- Effect Points | 2 Rounds or Concentration | 1 |
+| Tactics |  +/- Effect Points | 2 Rounds or Concentration | 1 |
 | Movement Phase | Prevent Removal / Remove Movement Phase | 1 Round or Concentration | 2 |
 | Action Phase | Prevent Removal / Remove Action Phase | 1 Round or Concentration | 3 |
 
