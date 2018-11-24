@@ -1,8 +1,20 @@
 # Table of contents
 
 * [Introduction to OpenLore](README.md)
-* [End User Agreement License \(EULA\)](end-user-agreement.md)
-* [Building a Character](building-a-character.md)
-* [Story Mode](story-telling.md)
-* [Combat Mode](combat-mode.md)
+
+## Preface
+
+* [Why we made OpenLore...](preface/why-we-made-openlore....md)
+* [End User Agreement License \(EULA\)](preface/end-user-agreement.md)
+
+## Player Guide
+
+* [Building a Character](player-guide/building-a-character.md)
+* [Story and Roleplay](player-guide/story-telling.md)
+* [Basic Combat](player-guide/combat-mode.md)
+* [Advanced Combat](player-guide/advanced-combat.md)
+
+## Master Guide
+
+* [Game Master Styles](master-guide/building-content.md)
 
