@@ -17,4 +17,5 @@
 ## Master Guide
 
 * [Game Master Styles](master-guide/building-content.md)
+* [Combat Preperation](master-guide/combat-preperation.md)
 

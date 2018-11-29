@@ -128,31 +128,31 @@ If two melee characters are already Ganging Up on an enemy, a ranged character c
 
 ## Multiple Attacks per Action
 
-In OpenLore you have the option to use multiple attacks in a single action. For each interval of 3 Combat Modifier \(3, 6 and 9\) you will get an additional attempt to beat the enemy defense. Each of these attempts will be at a -3 Combat Modifier until you go below zero. 
+In OpenLore you have the option to use multiple attacks in a single action. For each interval of 5 Combat Modifier \(5, 10, 15 and 20\) you will get an additional attempt to beat the enemy defense. Each of these attempts will be at a -5 Combat Modifier until you go below zero. 
 
 These rules soften the blow of missing and make it so there is a progression in combat as you gain experience. Reference your Combat Reference Sheet for this data in the Multiple Attacks per Action table.
 
 Examples:
 
-`A Combat Modifier of +4 would result in two attempts, one at Combat Modifier of +4 and the second attempt of a Combat Modifier of +1`
+`A Combat Modifier of +8 would result in two attempts, one at Combat Modifier of +8 and the second attempt of a Combat Modifier of +3`
 
-`My character has a Combat Modifier of 7, this means I get 3 attempts to beat the enemy defense with a Combat Modifier of +7 on the first Combat Dice roll, +4 on the second attempt at the Combat Dice roll and +1 on the final attempt to hit the enemy.` 
+`My character has a Combat Modifier of 11, this means I get 3 attempts to beat the enemy defense with a Combat Modifier of +11 on the first Combat Dice roll, +6 on the second attempt at the Combat Dice roll and +1 on the final attempt to hit the enemy.` 
 
 | Combat Modifier \(CM\) | Number of Attacks | CM per Attack |
 | :---: | :---: | :---: |
 | 1 | 1 | 1 |
 | 2 | 1 | 2 |
-| 3 | 2 | 3 / 0 |
-| 4 | 2 | 4 / 1 |
-| 5 | 2 | 5 / 2 |
-| 6 | 3 | 6 / 3 / 0 |
-| 7 | 3 | 7 / 4 / 1 |
-| 8 | 3 | 8 / 5 / 2 |
-| 9 | 4 | 9 / 6 / 3 / 0 |
-| 10 | 4 | 10 / 7 / 4 / 1 |
+| 3 | 1 | 3 |
+| 4 | 1 | 4 |
+| 5 | 2 | 5 / 0 |
+| 6 | 2 | 6 / 1 |
+| 7 | 2 | 7 / 2 |
+| 8 | 2 | 8 / 3 |
+| 9 | 2 | 9 / 4 |
+| 10 | 3 | 10 / 5 / 0 |
 
 {% hint style="warning" %}
-If a character gets a boost to CM, this could change the number of attacks currently accessible. The easiest way to manage this is to just subtract 3 from your CM until you cant anymore.
+If a character gets a boost to CM, this could change the number of attacks currently accessible. The easiest way to manage this is to just subtract 5 from your CM until you cant anymore.
 {% endhint %}
 
 ## Defensive Stance / Defense Dice

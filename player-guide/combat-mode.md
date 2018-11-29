@@ -16,7 +16,7 @@ The Controller is responsible for controlling the enemies in combat. This is typ
 
 The record keeper is responsible for tracking initiative, damage, and effects during a combat encounter. The Record Keeper writes down the combat initiative order, keeps track of whose turn it is, how much damage they have taken, and what effects are currently active on them or not. There is a blank sheet you can use to do this.
 
-I recommend using colored paper under the figurines or some way to generically track your enemies, if you have a million figurines this may not be needed but most of us have a handful and they don't always look like Stirges when you want them to. You will still need to identify which figurine is which among similar types. Cut construction paper is perfect for this.
+I recommend using colored paper under the figurines or some way to generically track your enemies, if you have a million figurines this may not be needed but most of us have a handful and they don't always look like Stirges when you want them to. You will still need to identify which figurine is which among similar types. Cut colored construction paper is perfect for this.
 
 The blank sheet can be found at \([http://master.openloregames.com](http://master.openloregames.com)\) and attached to the back of this book with the Character Sheet
 
@@ -24,7 +24,7 @@ The blank sheet can be found at \([http://master.openloregames.com](http://maste
 
 The narrator is responsible for narrating the combat as it takes place, this is meant to keep combat vivid and fast. The narrator describes the misses, the crushing blows, and the storming monster. The narrator creates intensity and excitement and demands that combat move as quickly as possible. It is the narrator's responsibility to keep time and make things seem urgent. He could say things like "Your running out of time the Bugbear is charging you" and things to that effect that make combat intense instead of methodical.
 
-The narrator might interject something interesting into the enemies in response to the way the Game Master has played them like "The orc that isnt attacking us is simply picking his nose and looking for something" these could turn into really great roleplay scenarios that the Game Master didnt think of and makes it so there is interesting cooperative play.
+The narrator might interject something interesting into the enemies in response to the way the Game Master has played them like "The orc that isn't attacking us is simply picking his nose and looking for something" these could turn into really great roleplay scenarios that the Game Master didn't think of and makes it so there is interesting cooperative play.
 
 I recommend the narrator keep track of turn time and the Game Master implement a combat timer with a repeating time limit and abide by a use it or lose it turn policy. The turn time threshold will depend on your players capabilities, but it should be very consistent regardless of how long it is. Spare time is just extra time for the next person.
 
@@ -109,9 +109,9 @@ The options you have at your disposal are endless. This is what makes combat so 
 
 ### Roll Combat Dice
 
-In order to roll attack for a Longsword, you need to roll the Combat Dice for Longsword, say, `1d6 + 1d10`.
+In order to roll attack for a Longsword, you need to roll the Combat Dice for Longsword, say, `1d6 + 1d8`.
 
-For this working example lets say you have a Longsword Combat Modifier \(CM\) of 5, this means that if the 1d6 rolls a **4** and the 1d10 rolls a **10**, my total for the roll would be 19. 
+For this working example lets say you have a Longsword Combat Modifier \(CM\) of 5, this means that if the 1d6 rolls a **4** and the 1d8 rolls an **8**, my total for the roll would be 17. 
 
 `Attack = Combat Dice + CM` 
 
@@ -119,15 +119,15 @@ Combat Modifier is calculated on the Combat Reference Sheet as part of Building 
 
 ### Is Target Hit?
 
-In the last example you rolled _4_ and _10_ + _5_ _CM_. Say the target defense is 18.  
-19 is greater than 18, so this is considered a hit and will cause damage.
+In the last example you rolled _4_ + _8_  + _5_ _CM = 17 Total_. Say the target defense is 16.  
+17 is greater than 16, so this is considered a hit and will cause damage.
 
 Ties go to offense.
 
 ### How Much Damage?
 
-Reference the two dice again, the d6 is a _4_ and the d10 is _10_. Simply add these two together   
-\(without the +5 CM\) totaling at **14** damage dealt. 
+Reference the two dice again, the d6 is a _4_ and the d8 is _8_. Simply add these two together   
+\(without the +5 CM\) totaling at **12** damage dealt. 
 
 ## Combat Health
 

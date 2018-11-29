@@ -102,7 +102,7 @@ This style of GMing is surprisingly liberating in time consumption. The GM only 
 
 Unlike with the campaign settings, the GM will need to create all the main characters on their own. There is a really great book out there called Masks, [https://www.enginepublishing.com/masks-1000-memorable-npcs-for-any-roleplaying-game](https://www.enginepublishing.com/masks-1000-memorable-npcs-for-any-roleplaying-game). This book has 1000 different main quality characters you can easily fit into your world. There is also endless content for character ideas online.
 
-You only need a small handful of main quality characters in your story to carry you for a long time. This task is critical to your story. Luckily is it is also pretty simple to flesh out a character and make them integrated into the story.
+You only need a small handful of high quality characters in your story to carry you for a long time. This task is critical to your story; luckily is it is also pretty simple to flesh out a character and make them integrated into the story.
 
 ### World Building
 
@@ -110,7 +110,24 @@ Within this style the GM will need to create the concept of the world. This worl
 
 World building can be very fun if done in a minigame. Basically everyone draws an inch of the border or beach at a time. Once the border is complete you take turns defining what each blank area of the map contains. Let imagination run wild and you could result in a truly incredible overworld. Make sure to keep track of the details and make some cities and hamlets along the way.
 
-More important than the overworld map is the world concept itself. What is the era, they world style, the basic history, and the different intelligent races that populate the world. How and why are monsters there? These are the questions that come to my mind when asking about the world. Is this a steampunk game, fantasy, high fantasy, sci-fi, modern, or cyberpunk game. What happened to steer the current state of the world?
+More important than the overworld map is the world concept itself. What is the era, the world style, the basic history, and the different intelligent races that populate the world. How and why are monsters there? These are the questions that come to my mind when asking about the world. Is this a steampunk game, fantasy, high fantasy, sci-fi, modern, or cyberpunk game. What happened to steer the current state of the world?
 
-This may sound difficult but starting is the key. Start with the concept and work the rest of the details out as you play sessions. The beauty of this style is you dont have to write it all at once. Take your time and mature the history as the party learns about it.
+This may sound difficult but starting is the key. Start with the concept and work the rest of the details out as you play sessions. The beauty of this style is you don't have to write it all at once. Take your time and mature the history as the party learns about it.
+
+## Session Styling
+
+If you have read any of the DnD adventure books you will see right away there is a distinct pattern in their formatting. The dialog is quoted, the information for the GM is plain text, the enemies are in predictable blocks of information, and the images always are relevant to the conversation. These types of formatting are intentional to make it easy for the GM to have the information he needs right when he needs it. Here is some bullet points on one way to manage these styles. The key is to be consistent in your own writing.
+
+* Plain Text - This is the content that is to be read by the GM
+* "**Quoted Bold**" - This is dialog of an NPC to be read by the GM with accent and energy
+* Callouts - In markdown this is text starts with &gt;, they are obviously different areas meant for the GM only and should not be read to the party
+* Battle Lists - OpenLore has a simple system for the enemies, you just need to have a bullet list. If you want more detail this should be a per character/monster battle block with a predictable pattern
+* Pictures - Pictures go a long way to help visualization, include them close to the relevant content
+* Numbered Lists - Use numbered lists to detail specific rooms in a location
+
+We will have more on the battle list and the enemies in the next section of the book.
+
+{% hint style="success" %}
+I recommend using [http://homebrewery.naturalcrit.com](http://homebrewery.naturalcrit.com) for creating sessions in a predictable way. The website is setup to do most of the formatting for you. Learning the markdown is easy, you simply copy the examples they have on the website. This whole book was written with markdown and gitbook.
+{% endhint %}
 

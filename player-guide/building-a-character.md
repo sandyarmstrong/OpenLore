@@ -218,16 +218,7 @@ You should start filling this sheet out by defining the weapons. Typically these
 
 The first step to add the Bastard Sword to the reference sheet is to write in the weapon name of `Standard Bastard Sword` then you need to figure out the Combat Dice for this weapon. The Combat Dice are figured out by looking at the table below \(also on the combat reference sheet\)
 
-| Offense Skill | Dice |
-| :--- | :--- |
-| 0-1 | 1d4+1d8 |
-| 2-3 | 1d6+1d8 |
-| 4-5 | 1d6+1d10 |
-| 6-7 | 1d8+1d10 |
-| 8-9 | 1d8+1d12 |
-| 10 | 1d10+1d12 |
-
-In this case, because we have 5 points in `Bastard Swords` we would write in `1d6+1d10` in the Combat Dice space. The next step is to calculate the Combat Modifier, this is simply the Combat Skill,`Bastard Swords [5]` + the CM bonus of the equipment `Standard Bastard Sword, CM+2` In this case we get 5 from the Skill and 2 from the equipment.
+The next step is to calculate the Combat Modifier, this is simply the Combat Skill,`Bastard Swords [5]` + the CM bonus of the equipment `Standard Bastard Sword, CM+2` In this case we get 5 from the Skill and 2 from the equipment.
 
 Next we have to figure out the Combat Modifier Max, this stat is to throttle the progression of the characters and enemies to keep balance throughout the game. We will say this character has **13** Experience. Reference the following table to see what the maximum for the current experience is.
 
@@ -242,9 +233,20 @@ Next we have to figure out the Combat Modifier Max, this stat is to throttle the
 
 In this case the Maximum Combat Modifier is **6.** We write this down in the field and continue. You will need to work with you GM and the table to talk about what you think the minimum and maximum range of that weapon should be. Most melee combat weapons for example like a Bastard Sword, would be **1** square Weapon Range Minimum and **1** Weapon Range Maximum. 
 
-The range of the weapons is negotiable based on common sense. A polearm would be **2** min, **2** max. These weapon ranges could vary from weapon to weapon even within a single combat skill. Two short bows could have different ranges for example.
+The next step is to figure out what combat dice to use for your weapon. The following table is based on the lower Combat Modifier. In the example above, the Bastard Swords skill of 5 and the Equipment `Standard Bastard Sword CM + 2` would make a total CM for the `Standard Bastard Sword` of **7**. As we calculated in the previous step the _Maximum Combat Modifier_ for this character is **6**. We always use the lower value between these two in combat, and we use the lower value in figuring out your combat dice. In this case, the Maximum is the lower value, referencing the table a 6 is the combat dice **1d6+1d8**.
 
-Character Range is the last piece to figure out in the Weapon section of the reference sheet. Character Range is the amount the character is able to Aim accurately. This uses the Aim combat skill from the character sheet + 2. So if this character had put **2** points into Aim, his character range would be **5.** For this character this doesn't matter, because he has a melee character.
+| Combat Modifier | Dice |
+| :--- | :--- |
+| 0-3 | 1d4+1d8 |
+| 4-7 | 1d6+1d8 |
+| 8-11 | 1d6+1d10 |
+| 12-15 | 1d8+1d10 |
+| 16-19 | 1d8+1d12 |
+| 20 | 1d10+1d12 |
+
+The range of the weapons is negotiable based on common sense. Range units are in squares. A polearm for example would be **2** min, **2** max range. These weapon ranges could vary from weapon to weapon. Two short bows could have different ranges for example. This part of the game is open and will take guidance from you GM. 
+
+Character Range is the last piece to figure out in the Weapon section of the reference sheet. Character Range is the amount the character is able to Aim accurately. This uses the Aim combat skill from the character sheet + 2. So if this character had put **2** points into Aim, his character range would be **5.** 
 
 As you can see in the reference sheet, there are dotted lines dividing sections of the sheet. Combat Modifier and Combat Modifier Max for example are divided that way. This means that you use the lowest value. In our Bastard Sword example, the Combat Modifier is **7** _\[5 skill + 2 equipment\]_, but the Max Combat Modifier is only **6,** this means we would use the lower value of **6** in combat.
 
