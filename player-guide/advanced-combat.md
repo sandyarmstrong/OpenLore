@@ -110,7 +110,7 @@ Choose as many targets as you want in your range, so long as the attack makes se
 
 Example
 
-`Three targets are in range of your Halberd Polearm. You make a sweeping knee high attack on all three and roll Combat Dice totally 14 with a +3 CM totalling an attack of 17. You beat two of the three targets who only had 15 defense, the third target had 20 defense. Of the two that were hit, you distribute the 14 damage how you see fit.`
+`Three targets are in range of your Halberd Polearm. You make a sweeping knee high attack on all three and roll Combat Dice totaling 14 with a +3 CM totaling an attack of 17. You beat two of the three targets who only had 15 defense, the third target had 20 defense. Of the two that were hit, you distribute the 14 damage how you see fit.`
 
 ### Multitarget Effects
 
